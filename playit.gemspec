@@ -33,6 +33,22 @@ Gem::Specification.new do |s|
   ## contents of your Git repository via the gemspec task. DO NOT REMOVE
   ## THE MANIFEST COMMENTS, they are used as delimiters by the task.
   # = MANIFEST =
+  s.files = %w[
+    Gemfile
+    Gemfile.lock
+    LICENSE
+    README.md
+    Rakefile
+    bin/playit
+    lib/playit.rb
+    lib/playit/command.rb
+    lib/playit/config.rb
+    lib/playit/platform.rb
+    lib/playit/services/bootstrap.rb
+    lib/playit/services/governance.rb
+    lib/playit/services/metadata.rb
+    playit.gemspec
+  ]
   # = MANIFEST =
 
 end
