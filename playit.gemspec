@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.test_files    = s.files.grep(%r{^(test|spec|features)/})
   s.name          = "playit"
   s.require_paths = ["lib"]
-  s.version       = "0.0.1"
+  s.version       = "0.0.2"
 
   s.add_dependency('multi_json', "~> 1.0.3")
 

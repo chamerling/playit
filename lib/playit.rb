@@ -23,7 +23,7 @@ require 'playit/services/metadata'
 
 module Playit
 
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 
   extend self
 
