@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
 
   s.authors       = ["Christophe Hamerling"]
   s.email         = ["christophe.hamerling@linagora.com"]
-  s.description   = %q{TODO}
-  s.summary       = %q{TODO}
+  s.description   = %q{Manage Play services from the command line}
+  s.summary       = %q{This gem provides a binary 'playit' used to manage Play FP7 services from the command line}
   s.homepage      = "http://chamerling.github.com/playit/"
 
   s.files         = `git ls-files`.split($\)
